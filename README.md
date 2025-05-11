@@ -1,20 +1,36 @@
-# "Experience"
+# Hey there 👋 I'm [Your Name]
 
-Former Executive of Unclear Objectives at the Global Institute of Vaguely Technical Things™.  
-Led multiple circular projects to completion, often redefining what "completion" means.  
-Oversaw end-to-end delivery of conceptual synergies, including a 4-hour team call that resulted in one emoji.  
+I'm a B.Tech CSE student, caffeine-fueled front-end enthusiast, and aspiring developer who occasionally wins the battle against bugs (and sometimes doesn't).  
 
-Once helped migrate a monolith into an even bigger monolith, now with 40% more microservices and emotional damage.  
-Proud inventor of the “push directly to main and hope” deployment strategy.  
+I build with:
+- 🖌️ **HTML** – Because everything starts with a skeleton  
+- 🎨 **CSS** – Making divs look slightly less ugly since [your year]  
+- ⚙️ **JavaScript** – Turning clicks into chaos  
+- 💻 **C/C++** – For when I want to remember pain and pointers  
 
-# Currently Learning
+---
 
-- Reverse pseudoscience engineering  
-- Advanced copy-paste dynamics from StackOverflow  
-- Verbal abstraction (applied mostly in daily standups)  
-- React, then regret  
-- AI (Apologizing to Interns)  
-- Mental model compression (also known as forgetting things immediately)  
-- Cheese-to-code ratio optimization (rats included)  
+## 🚧 Currently Working On
+- Making responsive layouts without breaking everything  
+- Writing cleaner JavaScript that doesn't scare future-me  
+- Understanding how `position: absolute;` betrayed me again  
+- Saying no to inline CSS (and meaning it)
 
-> If nonsense ever trends on GitHub, I’ll switch to Arch and pretend I enjoy it.
+---
+
+## 📚 Currently Learning
+- Real projects that don’t live only in `index.html`  
+- Git (the push-and-pray method is under review)  
+- Debugging with less crying  
+- Building a proper portfolio (someday, I swear)
+
+---
+
+## 🐸 Fun Facts
+- My favorite color is `#ff5733`  
+- I treat `console.log()` like a therapist  
+- I name my projects things like `final_final_v2_reallyFinalThisTime`
+
+---
+
+> If you like clean code, chaotic energy, and mildly cursed CSS... let's connect.
