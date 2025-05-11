@@ -1,5 +1,4 @@
-# Hey there 👋 I'm [Your Name]
-
+# Hey there 👋 I'm Vaibhav
 I'm a B.Tech CSE student, caffeine-fueled front-end enthusiast, and aspiring developer who occasionally wins the battle against bugs (and sometimes doesn't).  
 
 I build with:
