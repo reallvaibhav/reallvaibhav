@@ -1,61 +1,20 @@
-<h2 align="left">Hi 👋! My name is Vaibhav</h2>
+# "Experience"
 
-###
+Former Executive of Unclear Objectives at the Global Institute of Vaguely Technical Things™.  
+Led multiple circular projects to completion, often redefining what "completion" means.  
+Oversaw end-to-end delivery of conceptual synergies, including a 4-hour team call that resulted in one emoji.  
 
-<div align="center">
-</div>
+Once helped migrate a monolith into an even bigger monolith, now with 40% more microservices and emotional damage.  
+Proud inventor of the “push directly to main and hope” deployment strategy.  
 
-###
+# Currently Learning
 
-<img align="right" height="150" src="https://i.gifer.com/3AyY.gif"  />
+- Reverse pseudoscience engineering  
+- Advanced copy-paste dynamics from StackOverflow  
+- Verbal abstraction (applied mostly in daily standups)  
+- React, then regret  
+- AI (Apologizing to Interns)  
+- Mental model compression (also known as forgetting things immediately)  
+- Cheese-to-code ratio optimization (rats included)  
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto : kumar1299.be23@chitkarauniversity.edu.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/realvaibhavv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/reallvaibhav/reallvaibhav/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
+> If nonsense ever trends on GitHub, I’ll switch to Arch and pretend I enjoy it.
